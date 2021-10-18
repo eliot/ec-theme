@@ -1,0 +1,12 @@
+name = "EC Theme"
+license = "MIT"
+licenselink = "https://github.com/eliot/ec-theme/blob/master/LICENSE"
+description = ""
+homepage = "https://github.com/eliot/ec-theme/"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Elliott Chenoweth"
+  homepage = "https://echeno.com"
